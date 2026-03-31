@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luis Baldo</h1>
-<h3 align="center">Backend Developer</h3>
+<h3 align="center">Data Scientist</h3>
 
 - 📫 How to reach me **luisbaldo2001@gmail.com**
 
